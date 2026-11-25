@@ -24,3 +24,7 @@ cat /output/entry.txt
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+Built with [make.fun](https://make.fun/r/hv9zk8y5) — referral code `hv9zk8y5`.
